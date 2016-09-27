@@ -1,0 +1,41 @@
+Title: Opening times
+
+----
+
+Text: Welcome
+
+----
+
+Monday: Closed
+
+----
+
+Tuesday: 11-16
+
+----
+
+Wednesday: 11-19
+
+----
+
+Thursday: 11-16
+
+----
+
+Friday: 11-16
+
+----
+
+Saturday: 11-16
+
+----
+
+Sunday: 11-16
+
+----
+
+Extra-info: We are closed due to changing exhibitions
+
+----
+
+Extra: Konsthallen är stängd och öppnar åter den 8 oktober.

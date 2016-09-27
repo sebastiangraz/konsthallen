@@ -1,0 +1,38 @@
+title: Page
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  Monday:
+    label: Monday
+    type: title
+    width: 1/3
+  Tuesday:
+    label: Tuesday
+    type: title
+    width: 1/3
+  Wednesday:
+    label: Wednesday
+    type: title
+    width: 1/3
+  Thursday:
+    label: Thursday
+    type: title
+    width: 1/3
+  Friday:
+    label: Friday
+    type: title
+    width: 1/3
+  Saturday:
+    label: Saturday
+    type: title
+    width: 1/3
+  Sunday:
+    label: Sunday
+    type: title
+    width: 1/3
+  Extra:
+    label: Extra Info
+    type:  text
