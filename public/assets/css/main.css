@@ -30,23 +30,20 @@ a {
   text-decoration: none; }
 
 dt {
-  float: left;
   clear: left;
-  width: 100px;
+  float: left;
+  font-weight: bold;
   text-align: right;
-  font-weight: bold; }
-
-dt:after {
-  content: ":"; }
+  width: 100px; }
 
 dd {
-  margin: 0 0 0 110px;
-  padding: 0 0 0.5em 0; }
+  margin: 0 0 0 7rem;
+  padding: 0 0 .5em; }
 
 body {
   font-family: sans-serif;
-  margin: 0;
-  line-height: 1.5; }
+  line-height: 1.5;
+  margin: 0; }
 
 .row {
   margin: 0 auto;
